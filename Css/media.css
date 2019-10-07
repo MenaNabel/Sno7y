@@ -1,0 +1,41 @@
+/* extra small screen (smart phones and Tablets) */
+
+@media (max-width:767px)
+{
+    .dropdown-menu{
+        margin-top: -8px;
+    }
+    .navbar-nav .dropdown-item {
+        display: inline;
+        padding-left: 55px;
+    }
+    .header .snohy{
+        font-size: 10px;
+    }
+    .test{
+        display:none;
+    }
+}
+
+/* small screen */
+
+@media (max-width:991)
+{
+    
+}
+
+/* Medium screen */
+
+@media (min-width:992) 
+{
+    
+}
+
+/* large screen */
+
+@media (min-width:1200px)
+{
+        
+    .navbar-nav .dropdown-menu{
+        margin-top: 9px;
+}
